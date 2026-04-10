@@ -24,7 +24,6 @@ jobs:
       uses: subosito/flutter-action@v2
       with:
         channel: 'stable'
-        flutter-version: '3.19.0'
         cache: true
 
     - name: 🪄 补全缺失的安卓配置文件 (关键修复！)
