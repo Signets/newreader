@@ -1,5 +1,3 @@
-name: Cloud Build APK
-
 on:
   push:
     branches: [ "main", "master" ]
